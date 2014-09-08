@@ -1,11 +1,12 @@
-name: Jrcconstela
-description: Web Apps Developer
-meta_description: "Jose Constela, Web Apps Developer"
+# General
+name: 				'Jrcconstela'
+description: 		'Web Apps Developer'
+meta_description: 	'Jose Constela, Web Apps Developer'
 
-markdown: redcarpet
-pygments: true
-logo: false
-paginate: 15
+# Setup
+markdown: 			'redcarpet'
+highlighter: 		true
+paginate: 			15
 
 baseurl:			'/'
 url:            	'blog url'
@@ -17,4 +18,5 @@ authorAvatar:		'https://pbs.twimg.com/profile_images/1979866278/photoCV.jpg'
 disqus:				'jrcconstela-github'
 
 # Style
+logo: 				false
 cover:				'/assets/headers/london_bg.jpg'
