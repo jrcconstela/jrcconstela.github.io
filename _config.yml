@@ -23,4 +23,5 @@ logo: 				false
 cover:				'/assets/headers/london_bg.jpg'
 
 # Tracking
-googleAnalytics:	false
+
+# googleAnalytics:	false
