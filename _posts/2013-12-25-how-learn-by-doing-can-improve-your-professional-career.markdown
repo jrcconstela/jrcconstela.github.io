@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Always have a side project."
 date:   2013-11-25 04:04:01

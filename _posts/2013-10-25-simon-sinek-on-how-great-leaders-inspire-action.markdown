@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Simon Sinek on How great leaders inspire action"
 date:   2013-10-25 09:23:12

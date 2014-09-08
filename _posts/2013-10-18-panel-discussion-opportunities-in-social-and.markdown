@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Big Data"
 date:   2013-10-18 21:04:24

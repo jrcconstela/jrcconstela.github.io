@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "What’s your plan for the unexpected? disaster recovery."
 date:   2013-10-02 19:46:00

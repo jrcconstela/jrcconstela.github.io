@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Yield Thought: I swapped my MacBook for an iPad+Linode"
 date:   2013-10-02 19:46:00

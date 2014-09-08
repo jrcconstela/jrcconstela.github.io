@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Reading: Business Model Generation"
 date:   2013-10-25 16:23:12

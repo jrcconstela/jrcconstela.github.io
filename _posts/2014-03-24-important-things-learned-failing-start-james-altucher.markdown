@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Most Important Things I Learned from Failing at a Start Up? by James Altucher"
 date:   2014-03-24 15:23:12

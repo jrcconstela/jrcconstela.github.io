@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Getting Better All the Time via Code Review"
 date:   2014-02-15 15:23:12

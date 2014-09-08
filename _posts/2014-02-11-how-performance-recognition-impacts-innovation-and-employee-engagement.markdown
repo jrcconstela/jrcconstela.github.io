@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "How performance recognition impacts innovation and employee engagement"
 date:   2014-02-11 15:23:12

@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "James Lyne: Everyday cybercrime"
 date:   2013-10-02 19:46:00

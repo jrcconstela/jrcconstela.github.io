@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "AWS London Summit, an awesome day."
 date:   2014-06-22 15:23:12

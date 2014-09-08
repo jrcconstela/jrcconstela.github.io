@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Long travel journey to #London & interesting day. Finally resting. #gatwickairport"
 date:   2013-11-25 08:41:16

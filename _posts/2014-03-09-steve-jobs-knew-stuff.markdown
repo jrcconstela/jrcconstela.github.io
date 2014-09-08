@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Steve Jobs knew his stuff"
 date:   2014-03-09 15:23:12

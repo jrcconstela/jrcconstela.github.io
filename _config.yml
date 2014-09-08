@@ -13,5 +13,8 @@ author:         	'Jose Constela'
 authorDescription: 	'Lol'
 authorAvatar:		'https://pbs.twimg.com/profile_images/1979866278/photoCV.jpg'
 
+# comments
+disqus:				'jrcconstela-github'
+
 # Style
 cover:				'/assets/headers/london_bg.jpg'

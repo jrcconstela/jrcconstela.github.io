@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Forget a Mentor, Find a Sponsor"
 date:   2014-06-22 15:23:12

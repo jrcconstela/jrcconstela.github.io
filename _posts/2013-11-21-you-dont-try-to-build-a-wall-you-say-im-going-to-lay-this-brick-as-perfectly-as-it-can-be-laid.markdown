@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "You don’t try to build a wall..."
 date:   2013-11-21 08:41:16

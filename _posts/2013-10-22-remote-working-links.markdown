@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Remote Working - links"
 date:   2014-06-22 16:23:12

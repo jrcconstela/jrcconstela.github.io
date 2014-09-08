@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "The Best Talent Is Bringing Out Talent in Others"
 date:   2013-12-30 18:23:12

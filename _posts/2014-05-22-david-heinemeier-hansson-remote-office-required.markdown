@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "David Heinemeier Hansson: REMOTE: Office Not Required"
 date:   2014-05-22 15:23:12

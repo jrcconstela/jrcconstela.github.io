@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Finding a sense of higher purpose: Richard Gerver at TEDxUnisinos 2013"
 date:   2013-12-19 18:23:12

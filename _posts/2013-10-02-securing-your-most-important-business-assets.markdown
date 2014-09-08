@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Using 2-step verification, by Google"
 date:   2013-10-02 19:46:00

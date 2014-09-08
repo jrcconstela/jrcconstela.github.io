@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Decide what it is you want."
 date:   2014-03-18 15:23:12

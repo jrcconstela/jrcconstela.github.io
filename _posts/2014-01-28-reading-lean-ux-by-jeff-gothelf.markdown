@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Reading: Lean UX, by Jeff Gothelf"
 date:   2014-01-28 15:23:12

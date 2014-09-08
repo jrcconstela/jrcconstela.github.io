@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "C9"
 date:   2013-10-02 19:46:00

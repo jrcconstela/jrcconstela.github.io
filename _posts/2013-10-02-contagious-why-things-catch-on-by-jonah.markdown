@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Reading: Contagious. Why things catch on."
 date:   2013-10-02 19:46:00
