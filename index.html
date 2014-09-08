@@ -5,7 +5,7 @@ cover: false
 about: 'about.html'
 ---
 
-<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
+<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% else if site.cover %} style="background-image:url('{{ site.cover }}');" {% else %}  {% endif %}>
     <div class="vertical">
         <div class="site-head-content" class="inner">
             {% if page.logo %}
