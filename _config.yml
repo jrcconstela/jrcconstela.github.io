@@ -2,17 +2,18 @@
 name: 				'Jrcconstela'
 description: 		'Web Apps Developer'
 meta_description: 	'Jose Constela, Web Apps Developer'
+baseurl:			'/'
+url:            	'blog url'
+
+# Author
+author:         	'Jose Constela'
+authorDescription: 	'Lol'
+authorAvatar:		'https://pbs.twimg.com/profile_images/1979866278/photoCV.jpg'
 
 # Setup
 markdown: 			'redcarpet'
 highlighter: 		true
 paginate: 			15
-
-baseurl:			'/'
-url:            	'blog url'
-author:         	'Jose Constela'
-authorDescription: 	'Lol'
-authorAvatar:		'https://pbs.twimg.com/profile_images/1979866278/photoCV.jpg'
 
 # comments
 disqus:				'jrcconstela-github'
@@ -20,3 +21,6 @@ disqus:				'jrcconstela-github'
 # Style
 logo: 				false
 cover:				'/assets/headers/london_bg.jpg'
+
+# Tracking
+googleAnalytics:	false

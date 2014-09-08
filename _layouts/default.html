@@ -30,10 +30,11 @@
     <script type="text/javascript" src="/assets/js/all.js"></script>
 
     <!-- Google Analytics Tracking code -->
+    {{ if site.googleAnalytics }}
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+      _gaq.push(['_setAccount', '{{ site.googleAnalytics }}']);
       _gaq.push(['_trackPageview']);
 
       (function() {
@@ -42,6 +43,7 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
-    </script>   
+    </script> 
+    {{ endif }}  
 </body>
 </html>
