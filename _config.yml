@@ -20,7 +20,7 @@ disqus:				'jrcconstela-github'
 
 # Style
 logo: 				false
-cover:				'/assets/headers/london_2.jpg'
+cover:				'/assets/headers/london.jpg'
 
 # Tracking
 googleAnalytics:	false
